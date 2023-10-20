@@ -104,6 +104,10 @@ li {
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
+li p {
+	left: 0;
+	width: 100%;
+}
 
 li ul {
 	position: relative;
